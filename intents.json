@@ -1,0 +1,152 @@
+{
+  "intents": [
+    {
+      "tag": "headache",
+      "patterns": [
+        "I have a headache.",
+        "Experiencing head pain.",
+        "My head hurts."
+      ],
+      "responses": [
+        "Headaches can be caused by various factors, including tension, migraines, or sinus issues. It's recommended to consult a doctor for a proper evaluation."
+      ]
+    },
+    {
+      "tag": "fever",
+      "patterns": [
+        "I have a fever.",
+        "Feeling feverish.",
+        "My temperature is high."
+      ],
+      "responses": [
+        "Fever is often a sign of an infection, such as the flu or a viral illness. If you have a persistent fever, seeking medical attention is advised."
+      ]
+    },
+    {
+      "tag": "diarrhea",
+      "patterns": [
+        "I have diarrhea.",
+        "Experiencing loose stools.",
+        "Dealing with stomach issues."
+      ],
+      "responses": [
+        "Diarrhea can result from infections, food poisoning, or gastrointestinal issues. Stay hydrated and consult a healthcare professional if it continues."
+      ]
+    },
+    {
+      "tag": "cough",
+      "patterns": [
+        "I have a cough.",
+        "Experiencing persistent coughing.",
+        "Dealing with a cough."
+      ],
+      "responses": [
+        "Coughing may be due to infections, allergies, or respiratory conditions. If you have a persistent cough, it's recommended to see a doctor."
+      ]
+    },
+    {
+      "tag": "fatigue",
+      "patterns": [
+        "I'm feeling fatigued.",
+        "Dealing with tiredness.",
+        "Experiencing low energy."
+      ],
+      "responses": [
+        "Fatigue can have various causes, such as lack of sleep, stress, or medical conditions. Make sure you're getting adequate rest and consider consulting a medical expert."
+      ]
+    },
+    {
+      "tag": "breathing_issues",
+      "patterns": [
+        "I'm having trouble breathing.",
+        "Experiencing shortness of breath.",
+        "Difficulty breathing."
+      ],
+      "responses": [
+        "Breathing issues can be related to conditions like asthma, bronchitis, or even COVID-19. Seeking medical attention is important for proper diagnosis and treatment."
+      ]
+    },
+    {
+      "tag": "chest_pain",
+      "patterns": [
+        "I have chest pain.",
+        "Experiencing discomfort in my chest.",
+        "My chest hurts."
+      ],
+      "responses": [
+        "Chest pain could be due to heart-related problems, muscle strain, or other issues. It's crucial to consult a doctor for an accurate assessment."
+      ]
+    },
+    {
+      "tag": "skin_rash",
+      "patterns": [
+        "I have a skin rash.",
+        "Dealing with itchy skin.",
+        "Skin irritation."
+      ],
+      "responses": [
+        "Skin rashes can result from allergies, infections, or dermatological conditions. Consult a dermatologist for proper diagnosis and treatment recommendations."
+      ]
+    },
+    {
+      "tag": "viral_infection",
+      "patterns": [
+        "I think I have a viral infection.",
+        "Experiencing symptoms of a viral infection."
+      ],
+      "responses": [
+        "Viral infections can manifest in various ways. Rest and hydration are important. If symptoms persist, consult a medical professional."
+      ]
+    },
+    {
+      "tag": "covid19",
+      "patterns": [
+        "Could my symptoms be related to COVID-19?",
+        "Experiencing COVID-19-like symptoms."
+      ],
+      "responses": [
+        "COVID-19 symptoms include fever, cough, and difficulty breathing. If you suspect COVID-19, follow health guidelines and seek medical advice."
+      ]
+    },
+    {
+      "tag": "tiredness",
+      "patterns": [
+        "I'm feeling really tired.",
+        "Experiencing extreme fatigue."
+      ],
+      "responses": [
+        "Tiredness could result from various factors. Ensure proper sleep and consider a medical consultation if fatigue persists."
+      ]
+    },
+    {
+      "tag": "asthma",
+      "patterns": [
+        "Could my symptoms indicate asthma?",
+        "Experiencing breathing difficulties like asthma."
+      ],
+      "responses": [
+        "Asthma causes breathing issues. Proper management includes medication and avoiding triggers. Consult a doctor for accurate diagnosis."
+      ]
+    },
+    {
+      "tag": "migraine",
+      "patterns": [
+        "Could I be having a migraine?",
+        "Experiencing severe headache like a migraine."
+      ],
+      "responses": [
+        "Migraines cause severe headaches. Identifying triggers and medications can help. Consult a healthcare professional for advice."
+      ]
+    },
+    {
+      "tag": "allergy",
+      "patterns": [
+        "Could my symptoms be due to an allergy?",
+        "Experiencing allergic reactions."
+      ],
+      "responses": [
+        "Allergies lead to various symptoms. Identify triggers and manage symptoms with prescribed medications. Consult a doctor for guidance."
+      ]
+    }
+  ]
+}
